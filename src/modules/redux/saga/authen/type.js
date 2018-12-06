@@ -1,0 +1,2 @@
+export const SAGA_SET_LOGIN = `SAGA_SET_LOGIN`
+export const SAGA_SET_LOADING = `SAGA_SET_LOADING`

@@ -1,0 +1,14 @@
+.loadingPage {
+  // background: red;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+
+  .box {
+    // background: green;
+    display: flex;
+  }
+}
